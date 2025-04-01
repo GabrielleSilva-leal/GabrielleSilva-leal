@@ -47,7 +47,7 @@ Me chamo Gabrielle Silva Leal, tenho 18 anos e sou natural de São Paulo. Atualm
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-     src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/C/C-original.svg](https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/c/c-plain.svg)" 
+     src="https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/c/c-plain.svg" 
 /> 
 
 <br/>
