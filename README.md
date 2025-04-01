@@ -5,7 +5,7 @@
 Me chamo Gabrielle Silva Leal, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia de Computação na UTFPR. Eu vivo pela tecnologia e venho buscando desenvolver cada vez mais projetos para alcançar futuramente uma carreira como Sênior e algum dia trabalhar para o exterior.
   
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -49,7 +49,6 @@ Me chamo Gabrielle Silva Leal, tenho 18 anos e sou natural de São Paulo. Atualm
     style="padding-right: 10px;" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/C/C-original.svg" 
 /> 
-/>
 
 <br/>
 <br/>
