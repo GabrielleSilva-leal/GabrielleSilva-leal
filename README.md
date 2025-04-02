@@ -5,18 +5,25 @@
 Me chamo Gabrielle Silva Leal, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia de Computação na UTFPR. Eu vivo pela tecnologia e venho buscando desenvolver cada vez mais projetos para alcançar futuramente uma carreira como Sênior e algum dia trabalhar para o exterior.
 
 <p align="left">
-    <a href="leal.gabriellesilva@gmail.com">
+     <a href="https://www.instagram.com/im.gabi_silva?igsh=YW1yMXExZTZxajlu">
         <img 
-            alt="email" 
-            title="email" 
-            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
+            alt="instagram" 
+            title="instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/instagram-693dae.svg?logo=instagram"
         />
     </a>  
      <a href="https://wa.me/qr/VYDXZR4SFK7RE1">
         <img 
             alt="CONTATO" 
             title="Contato" 
-            src="https://custom-icon-badges.demolab.com/badge/contato-008000.svg?logo=phone"
+            src="https://custom-icon-badges.demolab.com/badge/contato-ffffff.svg?logo=whatsapp"
+        />
+    </a>  
+    <a href="leal.gabriellesilva@gmail.com">
+        <img 
+            alt="email" 
+            title="email" 
+            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
         />
     </a>  
 
