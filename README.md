@@ -16,7 +16,7 @@ Me chamo Gabrielle Silva Leal, tenho 18 anos e sou natural de São Paulo. Atualm
         <img 
             alt="contato" 
             title="contato" 
-            src="file:///C:/Users/Win/Downloads/phone%20(2).svg"
+            src="https://custom-icon-badges.demolab.com/badge/-123--456--7890-orange?style=for-the-badge&logo=phone&logoColor=white"
         />
     </a>
   
