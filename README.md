@@ -3,6 +3,15 @@
 **`Desenvolvedora Backend`**
 
 Me chamo Gabrielle Silva Leal, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia de Computação na UTFPR. Eu vivo pela tecnologia e venho buscando desenvolver cada vez mais projetos para alcançar futuramente uma carreira como Sênior e algum dia trabalhar para o exterior.
+
+<p align="left">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+        <img 
+            alt="email" 
+            title="email" 
+            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
+        />
+    </a>
   
 
 ### Linguagens e Tecnologias
