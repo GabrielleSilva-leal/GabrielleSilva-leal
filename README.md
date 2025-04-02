@@ -16,7 +16,7 @@ Me chamo Gabrielle Silva Leal, tenho 18 anos e sou natural de São Paulo. Atualm
         <img 
             alt="CONTATO" 
             title="Contato" 
-            src="https://custom-icon-badges.demolab.com/badge/contato-ffffff.svg?logo=whatsapp"
+            src="https://custom-icon-badges.demolab.com/badge/whatsapp-203500.svg?logo=whatsapp"
         />
     </a>  
     <a href="leal.gabriellesilva@gmail.com">
