@@ -12,6 +12,13 @@ Me chamo Gabrielle Silva Leal, tenho 18 anos e sou natural de São Paulo. Atualm
             src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
         />
     </a>
+    <a href="+55 (18) 99771-3559">
+        <img 
+            alt="contato" 
+            title="contato" 
+            src="file:///C:/Users/Win/Downloads/phone%20(2).svg"
+        />
+    </a>
   
 
 ### Linguagens e Tecnologias
